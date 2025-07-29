@@ -1,5 +1,6 @@
-spacy
-nltk
-scikit-learn
 pandas
+torch
 sentence-transformers
+transformers
+scikit-learn
+tqdm
