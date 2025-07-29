@@ -2,6 +2,7 @@ from sentence_transformers import SentenceTransformer, util # type: ignore
 import torch
 import pandas as pd
 import os
+import time
 from utils import load_reviews, DATA_PATH, OUTPUT_DIR, QUERIES, positive_words
 
 # Load BERT model
@@ -47,6 +48,7 @@ def method2_semantic_similarity(df, aspect, opinion, threshold=0.6):
 
 
 def run_method2():
+    start_time = time.time()
     print("Running Method 2 (Semantic Matching using BERT)...")
     df = load_reviews(DATA_PATH)
     if not os.path.exists(OUTPUT_DIR):
@@ -59,6 +61,8 @@ def run_method2():
             for rid in matched_ids:
                 f.write(str(rid).strip("'\"") + "\n")
         print(f"[+] Method2: Wrote {len(matched_ids)} matches to {out_path}")
+        elapsed = time.time() - start_time
+        print(f"\n Finished method2 queries in {elapsed:.2f} seconds.")
 
 if __name__ == "__main__":
     run_method2()
