@@ -29,7 +29,7 @@ def extract_reviews_by_ids(id_file, sql_file, output_file):
 
 if __name__ == "__main__":
     extract_reviews_by_ids(
-        id_file="Outputs/image_quality_test3.txt",
+        id_file="Outputs/image_quality_test3.txt", #Change this to target output file to read
         sql_file="reviews_segment.sql",
         output_file="matched_reviews.txt"
     )
