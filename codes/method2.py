@@ -13,7 +13,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
 def is_opinion_positive(opinion):
     return any(word in positive_words for word in opinion.lower().split())
 
-def method2_semantic_similarity(df, aspect, opinion, threshold=0.6): #--------Change threshold here------
+def method2_semantic_similarity(df, aspect, opinion, threshold=0.70): #--------Change threshold here------
     results = []
     query = f"{aspect} {opinion}"
     query_embedding = model.encode(query, convert_to_tensor=True)

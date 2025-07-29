@@ -1,9 +1,11 @@
 # utils.py
 import pandas as pd
 import re
+from pathlib import Path
 
-DATA_PATH = "dataset/reviews_segment.pkl"
-OUTPUT_DIR = "Outputs"
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "dataset" / "reviews_segment.pkl"
+OUTPUT_DIR = BASE_DIR / "Outputs"
 QUERIES = {
     "audio_quality": ("audio quality", "poor"),
     "wifi_signal": ("wifi signal", "strong"),
