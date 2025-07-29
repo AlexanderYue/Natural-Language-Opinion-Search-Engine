@@ -4,3 +4,7 @@ method 2 utilizes BERT. The way the transformer works is it finds reviews thatre
 ('RXFQY9BIHFWX7', 'B0000AOWWY', 'AYYAWL7LZYD5S', 1, 1, 2, 'Bad mouse response', '2005-08-07', 'Alexander I. Mcphail', 'Microsoft Wireless Optical Desktop Elite (Personal Computers)', 'After using this product for about three weeks I am pretty sick of it.  While the keyboard is nice, the mouse is what drives me crazy.  The left-click button only works about half the time I click it.  Considering the left-click is the primary interface with a computer it needs to be reliable.  I WOULD NOT get this if I were you.  I am ready to throw the mouse against the wall.  If I still had the box I would return it.', 0, 0, 0),
 
 These reviews, while not explicitly mentioning "Click problem", all are reviews in which there is a problem with the clicking. Whereas with boolean and method1 we only return reviews that have words inside the defined corpus of "positive_words" and "negative_words"
+
+Finished baseline queries in 82.40 seconds.
+Finished method1 queries in 86.94 seconds.
+Finished method2 queries in 838.77 seconds.

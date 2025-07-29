@@ -61,8 +61,8 @@ def run_method2():
             for rid in matched_ids:
                 f.write(str(rid).strip("'\"") + "\n")
         print(f"[+] Method2: Wrote {len(matched_ids)} matches to {out_path}")
-        elapsed = time.time() - start_time
-        print(f"\n Finished method2 queries in {elapsed:.2f} seconds.")
+    elapsed = time.time() - start_time
+    print(f"\n Finished method2 queries in {elapsed:.2f} seconds.")
 
 if __name__ == "__main__":
     run_method2()
