@@ -1,3 +1,5 @@
 *.pkl
 *.xlsx
 *.sql
+install_log.txt
+Report.pdf
