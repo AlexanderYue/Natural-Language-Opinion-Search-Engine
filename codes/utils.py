@@ -5,7 +5,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_PATH = BASE_DIR / "dataset" / "reviews_segment.pkl"
-OUTPUT_DIR = BASE_DIR / "Baseline_Outputs"
+OUTPUT_DIR = BASE_DIR / "Baseline_Outputs" #set this for baseline outputs, method1 and method2 output is already set
 QUERIES = {
     "audio_quality": ("audio quality", "poor"),
     "wifi_signal": ("wifi signal", "strong"),
