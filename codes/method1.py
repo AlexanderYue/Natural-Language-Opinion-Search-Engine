@@ -1,7 +1,6 @@
-# run_method1.py
-import pandas as pd
 import os
 import time
+import pandas as pd
 from utils import load_reviews, match_review, is_opinion_positive, DATA_PATH, OUTPUT_DIR, QUERIES
 
 def method1_rating_filter(df, aspect, opinion):
@@ -24,14 +23,22 @@ def run_method1():
     start_time = time.time()
     print("Running Method 1 (Boolean + Rating Filter)...")
     df = load_reviews(DATA_PATH)
+
+    output_folder = os.path.join("..", "m1_outputs")
+    os.makedirs(output_folder, exist_ok=True)
+
     for fname, (aspect, opinion) in QUERIES.items():
         matched_ids = method1_rating_filter(df, aspect, opinion)
-        out_path = os.path.join(OUTPUT_DIR, f"{fname}_test2.txt")
-        with open(out_path, 'w') as f:
+
+        out_path = os.path.join(output_folder, f"{fname}_test.txt")
+
+        with open(out_path, 'w', encoding='utf-8') as f:
             for rid in matched_ids:
                 f.write(str(rid).strip("'\"") + "\n")
         print(f"[+] Method1: Wrote {len(matched_ids)} matches to {out_path}")
+
     elapsed = time.time() - start_time
-    print(f"\n Finished method1 queries in {elapsed:.2f} seconds.")
+    print(f"\nFinished method1 queries in {elapsed:.2f} seconds.")
+
 if __name__ == "__main__":
     run_method1()

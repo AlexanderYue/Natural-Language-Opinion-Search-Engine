@@ -5,7 +5,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_PATH = BASE_DIR / "dataset" / "reviews_segment.pkl"
-OUTPUT_DIR = BASE_DIR / "Outputs"
+OUTPUT_DIR = BASE_DIR / "Baseline_Outputs"
 QUERIES = {
     "audio_quality": ("audio quality", "poor"),
     "wifi_signal": ("wifi signal", "strong"),
@@ -34,10 +34,15 @@ def remove_stopwords(text):
     return ' '.join([word for word in text.lower().split() if word not in stopwords])
 
 def match_review(text, aspect, opinion):
-    cleaned_text = remove_stopwords(text)
-    cleaned_aspect = remove_stopwords(aspect)
-    cleaned_opinion = remove_stopwords(opinion)
-    return cleaned_aspect in cleaned_text and cleaned_opinion in cleaned_text
+    cleaned_text = remove_stopwords(text.lower())
+    aspect_words = remove_stopwords(aspect.lower()).split()
+    opinion_words = remove_stopwords(opinion.lower()).split()
+
+    aspect_found = any(word in cleaned_text for word in aspect_words)
+    opinion_found = all(word in cleaned_text for word in opinion_words)
+
+    return aspect_found and opinion_found
+
 
 def is_opinion_positive(opinion):
     return any(word in positive_words for word in opinion.lower().split())
