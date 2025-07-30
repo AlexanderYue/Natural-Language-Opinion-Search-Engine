@@ -1,51 +1,430 @@
-[R1D3P27BS4UNO0]
-The picture quality is simply amazing, once the picture settings are tuned correctly. The default settings that come with the various picture modes are quite bad. I was initially worried that I might have a defective unit. The colors were just way off. Fortunately I found professional calibration results for this model on the Web [...]. If you're not happy with the color reproduction of this model, I strongly suggest that you give these settings a try.
+[R11WZJWBSDH1NE]
+Previously had about a 2 yr old  Netgear N750 Router that worked well but have a back bedroom won't get to or with only very weak -90db or so signal.  Have new Asus Transformer t700 (only 2.4) like to lay in bed and use at times.
 
-[R1TMF887RLF68O]
-The picture quality on this TV is outstanding. Whether we watch TV, stream movies via Netflix, blu-ray, or view home photos through our home network, the picture looks great.  SD, HD, & 3D all look crystal clear. You will be impressed with the quality and the TV looks very slim on the TV stand or wall.
+Home is 2200 ft Frank Lloyd Wright like - single story block walls.  Bedroom is maybe 100 Ft. from router - straight line of sight would go thru a block wall.  Hoped the EA4500 would provide a more usable signal.  Was VERY easy to set up vs Netgear and before that had terrible time with a DIR-655 kept dropping signal etc.
 
-[R21WCJUOHXFYNM]
-I bought this book about 6 months ago and it has become a "bible" of sharpening for me.  I shot with 6mp and 8mp (now 10mp) dSLRS and had previously used a single pass of UnSharp Mask or Smart Sharpen for sharpening.  (all digital photos need sharpening -- *all* of them -- and in-camera sharpening is not desirable for many reasons)
+The EA4500 easily found TiVo, laptop (maybe 30 feet away) and got still weak but at least stay connected usable signal in bedroom which varied -70 to -80 db. with a "Fair" 5Mbps link speed.  EA4500 is on floor by desktop.
 
-My photos never came out as sharp as others I had seen published and I kept asking myself, "what am I doing wrong?!  Is it my equipment, my photo technique, ...?".  Now I know that at least part of it was my *sharpening* technique.  Also, I needed to learn that photos properly sharpened for output (printing) will likely *not* look good on the screen (esp at 100%), and how to better judge output sharpness when viewing on the screen.  Hints: (1) don't get freaked by apparent sharpening ugliness when viewing at 100% or greater; (2) only view at even zoom factors like 25% and 50%; and (3) 50% is often a fair zoom to use when judging sharpening for output.
+Then I added <a href="http://www.amazon.com/gp/product/B005UBNGY6/ref=cm_cr_asin_lnk/186-3539034-6795020">Amped Wireless High Power Wireless-N 600mW Smart Repeater and Range Extender (SR10000)</a>
+WOW!  I was concerned whether the input from EA4500 would be strong enough to be extended by repeater which I set on a TV stand in back bedroom since instructions recommend at least a -70db signal.  Result with the Amped extender while lying on bed was strong -30 db and 58Mbps speed.
 
-The results I've seen from the sharpening techniques in this book range from "great" to "oh-my-god-this-is-*fabulous*".  I'm finally producing photos that are as sharp as I had always hoped for, comparable to anything I've seen published.
+I am writing this from laptop which is about 30 feet from EA4500 - only an interior wall between (not block) and getting about -50db at 65Mbps (extender down about -70 db as far further away.
 
-Bruce Fraser starts at the beginning, explaining the need for sharpening, and proceeds to build a case for why a three-level sharpening process is so effective (Source Sharpening, Content/Creative Sharpening, and Output Sharpening).  After you're convinced by his sound reasoning that this is a good idea, he details *how* to implement this 3-pass sharpening process.  I codified the three passes into Photoshop Actions, which now take no more time for me to run than the single-pass sharpening I had previously done.
+Bottom line is I like the EA4500, easy set up, no problems and did send out stronger signal than Netgear 750, but needed the repeater to really boost the signal in far bedroom.
 
-I keep this book in my car or on my shelf, with dozens of post-it tags sticking out where I added my own indexing to all the good parts.  I'm sure that this book will become ragged with use, over the years.  It is without a doubt the most useful photography book I've bought in the last 10 years.
+[R11Y356RSFFGE7]
+I wanted a cheap blu-ray player that also had wi-fi to connect Amazon Prime. I went with Sony believing it would be a great product and was hoping to have a similar online appearance with the Sony Playstation 3. It was close, but not enough.
 
-[R2LZH37192IAUP]
-I bought this book about 6 months ago and it has become a "bible" of sharpening for me. I shot with 6mp and 8mp (now 10mp) dSLRS and had previously used a single pass of UnSharp Mask or Smart Sharpen for sharpening. (all digital photos need sharpening -- *all* of them -- and in-camera sharpening is not desirable for many reasons)
+Pros:
 
-My photos never came out as sharp as others I had seen published and I kept asking myself, "what am I doing wrong?! Is it my equipment, my photo technique, ...?". Now I know that at least part of it was my *sharpening* technique. Also, I needed to learn that photos properly sharpened for output (printing) will likely *not* look good on the screen (esp at 100%), and how to better judge output sharpness when viewing on the screen. Hints: (1) don't get freaked by apparent sharpening ugliness when viewing at 100% or greater; (2) only view at even zoom factors like 25% and 50%; and (3) 50% is often a fair zoom to use when judging sharpening for output.
+-Easy to put together and setup.
+-Wifi immediately gained access and setup was a breeze
+-Was able to play Amazon Prime and it looked beautiful
+-Inexpensive
+-Bluray viewing looked nice after some customization
 
-The results I've seen from the sharpening techniques in this book range from "great" to "oh-my-god-this-is-*fabulous*". I'm finally producing photos that are as sharp as I had always hoped for, comparable to anything I've seen published.
+Cons:
+-Really cheap plastic construction. Hoping for more of a Playstation 3 feel.
 
-Bruce Fraser starts at the beginning, explaining the need for sharpening, and proceeds to build a case for why a three-level sharpening process is so effective (Source Sharpening, Content/Creative Sharpening, and Output Sharpening). After you're convinced by his sound reasoning that this is a good idea, he details *how* to implement this 3-pass sharpening process. I codified the three passes into Photoshop Actions, which now take no more time for me to run than the single-pass sharpening I had previously done.
+-Even cheaper remote control. Felt like a late 80s remote control for a Sony tv I had back then. No backlight and difficult to determine what buttons did what.
 
-I keep this book in my car or on my shelf, with dozens of post-it tags sticking out where I added my own indexing to all the good parts. I'm sure that this book will become ragged with use, over the years. It is without a doubt the most useful photography book I've bought in the last 10 years.
+-The online user interface was lacking. It was somewhat like the Playstation 3, but very clunky and response time was lacking. Additionally no way to customize.
 
-[R31D0ZLX4Z6X9R]
-This is one outstanding camera.  Takes sharp, color-rich pictures.  Delivery was on time.
+-Bluray was really dissapointing. I've only had a Playstation 3 for my blu-ray viewing and it always loads fairly quick in my opinion. This took about 3 minutes before it got to the "loading" screen of any disc I put in. Essentially it would take about 5 minutes before getting to the main menu screen. I put in the last season of Entourage and the video and audio sputtered like I was seeing every 10th frame. I did some customization on the video and somehow got it fixed. The movie locked up during one viewing. Very upset about it since I really wanted another blu-ray player in the house.
 
-[R3G2L0VVIM9D7H]
-I like the camera very much.  The other cameras compared to it may be sharper but they don't have all the features this has. The picture quality is alright for me and the many settings are all very good. I like it very much.
+In the end, I returned it because I just didn't think I got what I wanted. UI screens should not be clunky, it's 2012 no need for cheap remotes, and the blu-ray was a total fail.
 
-[R3I3TFKLEAU38S]
-Very sharp and crystal clear images! easy to set up! and very user friendly!
+[R11Y9O9M6PJ5R8]
+Still rated 4 stars. In response to the June 23,2006 review, my ruler says 42 inches - 3 feet 6 inches. Maybe in four years since I wrote my review, Plantronics put a longer cord, maybe a customer suggestion or something made em do it.The measurements for the Mute and On/Off buttons are correct BUT they still are right next to each other, still have the same tactile feel as one another and so I'll still contend that it would be easy to disconnect instead of mute.
 
-[R3JZDEAF206VEB]
-This is a great camera.  Takes great pictures.  Picture to picture delay is short.  Images are very sharp because of the IS.
+Most busy people tend to use their phones by not looking and might get into the bad habit of trying to mute and inadvertently disconnect. The phone has a little raised dot on the numeral 5 button. If moving one of the buttons in question in a ergonomic redesign is out of the question, possibly a little raised bump might work.
 
-[RIMYEX8QOHT2S]
-I received this TV yesterday to replace a Maxent LCD TV and I have say that the image quality is amazing. The size of the screen is just right for the living room of my apartment. I have separate speakers so I cannot comment on the sound. But picture quality is better than my Maxent by a big margin. Image is brighter and has a lot more definition. Menu is also easy to use.
+If you're not a touch 'phonist and need to look at the phone to hang up, it probably would take bigfoot to mess it up. But what would Bigfoot need a phone for? LOL. I still suggest buyers beware of the key lay out. It's still going strong after 4 years.
 
-I found 3 stuck pixels on the screen, but from 5 feet away, they have absolutely no impact on the picture quality.
+John Row
 
-[RMW687Y34QM6P]
-The friends with whom I talk via Skype tell me that my pictue they see is very sharp and clear. They are the people who praised this web cam. They are the people who evaluated this webcam for me.<a href="http://www.amazon.com/gp/product/B003LVZO92/ref=cm_cr_asin_lnk/178-6065452-0104922">Logitech 720p Webcam C510</a>
+in1ear
 
-[RXERMYX6LG06S]
-The picture quality seems to be very good.  I can't tell for certain, since I don't know what the other end sees exactly, but they tell me it's fine.  Really, these web cams have a long way to go, but from what I can tell this inexpensive camera is as good as any other.
+[R11Z0PFJZM4F1S]
+I haven't fully explored what you can do with this machine, but it is easy to use and produces good recorded DVDs.  Of course, it's also a good player.
+
+The uses I have for it, not all of them tested yet:  copying VHS tapes to DVD (from my existing VCR); recording TV programs off the "air"; watching prerecorded (or my own previously recorded) DVDs; producing edited DVDs of my own recorded materials; tuning in QAM channels directly from my cable.  This last is an interesting new capability that I haven't fully explored.  It is limited, as it only tunes "cable-clear" signals, and on my Comcast service, that's limited to broadcast stations and basic-cable offerings.  But who knows where it might lead?  Also, if I get a DVR someday, I can copy stuff I want to save onto a DVD.
+
+This unit also has interface and connectors for every output mode imaginable: (RCA cable) video and audio, component video (RGB), S-video, and HDMI.  What is doesn't have is coax output on analog channel 3 or 4, but I guess that's gone the way of the crank starter...
+
+This is a good basic device, a modern replacement for the VCR for off-the-"air" recordings, and for playback of prerecorded material.
+
+[R11ZMWB5KRESZC]
+Genuinely surprised how well this product works and wondering why I did not buy an antenna earlier.
+
+I highly recommend, you call Antennas Direct at 877-825-5572 and talk to pre-sales/support and let them help you select best antenna for your area, home location and home style.
+
+I followed their advise regarding setting up on 1 TV with a direct coax cable to antenna before wiring the antenna to the coax junction box.
+
+If you are going to be splitting the signal to 4 or more TVs, consider a higher gain antenna if advised by them.  A bigger and higher gain antenna does not always mean better signal, specially if you live to close to the broadcast location.
+
+The antenna I got is quite forgiving, but always rescan on all tvs after changing the direction of the antenna.  You might pick up additional channels and surely improve the clarity of some.
+
+If your TV has automatic background rescan, leave it turned on.
+
+For some reason rescanning during prime time picked up some additional channels.
+
+Double rescan (Delete/Rescan) may help in certain areas.  I tried it just for kicks and picked up some additional non-English channels (that I eventually ended up deleting).
+
+Search for some additional resources:  TitanTV and  AntennaWeb
+
+(On a separate note:  I also called Comcast and cancelled TV portion -  they happily bumped up the price of my high-speed high-price internet though!  Will look at alternatives )
+
+[R1214NNSPBAVW2]
+My wife bought this unit based on price for a road trip we were taking. While the unit worked, it was "ok". We connected this with a 3-way splitter so all three kids could enjoy audio. Warning - sound volume gets a bit quiet driving 3 headphones even at max volume (depending on headphone brand). However, a few days into the trip, the car-adapter failed. We didn't know until the internal battery died.
+
+The good:
+* Small, portable. Works well [...] (Caselogic Case)
+* Includes car charger for on-the-go operation
+* Included remote
+
+The not-so-good
+* Headphone power isn't that strong - driving more than 2 pairs of headphones may not work for everyone if ambient noise is high.
+* The car charger failed after a few days of use. Kept blowing the built-in fuse. I'm exchanging the unit because of this with hopes that it's a one-off failure.
+* Screen size is a bit small for larger vehicles - not a problem in my case.
+* Some movies (like Monster's Inc.) don't play properly - file contents of the disc displayed instead.
+* We couldn't figure out how to make disc memory work - my kids always had to restart the movie when getting back into the car.
+* Because of the built-in battery, the unit will keep on playing even when the car is turned off. Must remember to turn it off!
+
+I'm exchanging for another one - the value is still good enough to warrant keeping for the occasional road-trip.
+
+[R121GXUV4BDS9B]
+The title says it all. It gets a audio/video signal from point: a to point: b. What eles can I say about an HDMI cable. I
+
+[R122WKGSDYP8UD]
+I had been using this line of software for many years starting with Klik 'n Play (released in 1994). It's very easy to make games and other applications with, but the company who makes it (Clickteam) is very slow to release updates and keep up with the times.
+
+If you don't want to bother ever learning code, and for some reason you still want to make your own games or software... then this product is great for you. If you want to make games playable on the web, then I do not recommend this.
+
+Clickteam, for years, has been talking about releasing an update to compile games in Java format, to be played on the web. However, after all this time, all that exists is a skimpy beta version of this.
+
+The bottom line is that much fun can be had with this product, but if you are serious about making your own games or other software, I strongly recommend you learn some code (preferably ActionScript or Java). Also, if you are considering buying this product, you should definitely download a free trial version from Clickteam's site first.
+
+[R123CS8XE0QYPB]
+Okay, this phone isn't perfect but it gets 5 stars.  Why?  Because at this moment its the best value for your money.  Sure, the 650 is better, but unless you want to lock yourself into a 2 year contract its going to cost significantly more.  Other comparable options cost similar to the 650.
+
+What I use it for: I'm a T-mobile customer and this phone is a) cheaper than the phone through T-mobile and b) is unlocked.  So when I'm in Europe this spring I can simply replace the SIM and go.  Note that this is the GSM model - it won't work on Verizon or Sprint.
+
+Pros: Syncing is effortless, scheduling software mimics Outlook 2003 perfectly.  Phone works great - good reception and sound quality.
+
+Cons: No bluetooth, no WIFI (the 650 lacks this as well).  Screen isn't hi res, camera quality is low (if you want quality get a digicam, I have a Canon S400).  Lets be honest - this is yesterday's technology.
+
+Unknowns: Reliability.  I've only had this phone for a few days, and we'll see how it stands the test of time.
+
+Conclusion: If you want the latest and greatest get the 650, Nokia 9300, or something else.  But you'll be paying that early adopter premium.  If you want something that elegantly does the job at a great price then get this.
+
+[R123VPL5WSH5IP]
+As a long time user of the first version of the MS Wireless Intellimouse Explorer I was excited to get my new 2.0 version with tilt wheel horizonal scrolling. The new mouse looks nicer with soft rubber sides, runs on one AA in a pinch but with two has nearly 6 TIMES the battery life of my old mouse (up to 6 months now) and has smoother response on screen than the old version. There is also much less signal interference with all my other wireless equipment and the new horizontal scrolling action is easy to pick up and really "works."<p>That said there are *several* steps backwards. The new mouse is about 10% smaller than the old Explorer and even though I have small hands for most men this new mouse doesn't fit like the "glove" that the old Explorer did. The top is too peaked to allow my hand's palm to rest in total comfort and the thumb rest slopes inward nicely but no longer flares at the bottom to hold my thumb in place. The new scroll wheel has a gel like feel with a smooth scrolling action with no "clicking." This feels so unnatural for current wheel mouse users and takes a long time to get used to. I control it well now to the point it doesn't bother me but I certainly don't think it is an improvement over a wheel that has a clicking feel. The two back and forward extra buttons for web browsing etc. are even smaller and higher now turning the old Explorer's weak spot into even a bigger weak spot. Finally the Intellimouse software no longer allows you to set buttons on the mouse to work different features in each individual softwear application, instead allowing only global changes.<p>The horizontal tilt feature, colors, look, battery life, and response are all winners. It just begs the question why the ergonomics and softwear had to take a step back. If you are looking for a good wireless mouse this certainly is a winner, but if you already own the orginal wireless intellimouse explorer you might want to put your hand on one of these before you decide to "upgrade."
+
+[R1252OPN430UKH]
+I had been studying TVs for a bit less than a year.  I finally pulled the trigger on this one, about 2 weeks ago.  It arrived today.  I tuned it with settings I found online.  This thing, besides being huge, looks great.  I replaced my LVM-42w2 with this one; the old 42 is relegated to my bedroom.  CNET, and a few other sites, called this one the current (11/12/2010) best picture quality.  I have spent a lot of time in my local (NYC) electronics stores looking at Sharps, LGs, Samsungs, and Sony tvs.  None have a better picture quality.  I'll agree that all the others look better on the outside, but the screen is great.
+
+Better than those others, this one's screen has a matte finish.  The matte finish reflects a lot less light, and less clearly, than the other brands I mentioned.  The others looked like mirrors, whereas this one reflects images much more blurredly.  Reflections are weak and not clear.
+
+Widgets are good and work snappily.  Netflix, using the wired connection, looks better than on the Wii; the Wii uses Wifi, and is connected to my TV via component video; so the direct Netflix Ethernet connection should be faster for both types of reasons.
+
+Overall, I am very happy with this new giant monster in my living room.  I can't wait to watch sports on it this weekend.
+
+Bought it here at Amazon.  Shipping took about 9 days from order date.  Box was well handled, and in good shape.  As you might guess, the TV inside the box was undamaged.
+
+[R1257CQA9FR94Q]
+So you're thinking about paying for radio? Are you Sirius? Or are you XM? The first thing you need to do when making the decision to take on yet another monthly payment is to figure out which service to order, Sirius or XM. The 2 advantages to XM are that they have a better selection of portable satellite receivers, and it's slightly less expensive at $10 vs. $13 per month. For me, the programming is what makes the biggest difference between the two. Sirius has contracts with most of the major professional sports conglomerates, including NFL, NHL, NBA, College Sports & soon, NASCAR. XM has Baseball and probably some other boring sports like bowling. And while both companies have about 60 channels of music, only Sirius remains commercial free. It's too bad the talk, and sports stations aren't commercial free too. So lets recap: Sirius has commercial free music, tons of sports programming for only $3 additional/month. Plus, Sirius is about to come out with some pretty slick portable devices, and in January 2006, they're adding Howard Stern.
+
+So now that you've come to your senses about which service to get, you now need to decide which receiver to buy. The problem with satellite radio is that they make you pay per device. Not pay per household. So if you want a dedicated satellite car stereo, you pay $13/month. And if you want to pipe that into your house, you have to first buy another receiver, and yes, get charged a second fee! Luckily, the fee is reduced to $6.99 for each additional unit. Being the tightwad that I am, I wanted a portable unit that would plug into my car, but could quickly come out and be plugged into a home base. That brings the useability factor way up, and the monthly bill way down. These types are called the "Plug & Play Portable Units"
+
+At last count, there were 16 Plug & Play Portable units that are Sirius compatible. Only 2 have the "replay" feature. This feature works much like TiVO, in that it constantly records whatever you're listening to. That means you can pause live radio, rewind, or fast forward back to real time. I wasn't sure if this feature would be worth the extra $70 I needed to pony up for it, but after one short week, I can tell you that YES, IT'S WORTH IT! I piped in my first Detroit Lions game last week and while listening, my 2.3 year old son kept interrupting to drag me out to play. I simply hit the pause button and spent the next half hour with him. After he was pacified, I went back in and listened to the game. I fast forwarded through the all the commercials, and in less than 15 minutes, was caught back up to real time. This happened 2 or 3 times during the game, and I never missed a down.
+
+During the week, the Sportster Replay sits on my desk at work. When customers walk in, or a phone call comes in; I usually prefer to pause the music rather than turn it down. This way, I can focus on the person better. This happens several times a day, so it's not unusual to be behind "real time" by 30+ minutes. The advantage to this is that when a song comes on that I don't care for, rather than turn the station, I simply skip over it! This is also a very handy feature for talk radio. Since I hate commercials, I like to pause when one comes on, I go about my work, I then unpause and skip right over the commercials with a few clicks. The nice thing about Sirius is that they tag the beginning of each song and commercial, so when you hit the forward or rewind buttons, everything is cued up the next item. Much like skipping songs on a CD, the next selection is cued up.
+
+This model also has Game Zone and Game Alert features. So when your favorite sports teams come on, the unit will remind you. If you choose to ignore the game, you can listen to music and have the score updates pop up automatically when someone scores. I'm not sure how NBA will handle this with so much scoring, so it's probably on a timer.
+
+The one bummer (just like TiVO) is that if you change stations, you lose your cached memory. You start over. And no, you can't record on one channel while listening to another. You also can't save the memory or download it. Also, if you were to take it from a home base to the car, it would unplug, and therefore loose the memory. Too bad this unit doesn't have a 9 volt backup battery so transporting the unit would preserve the memory.
+
+Also, included is a "memo" feature. This is handy if you like a song, and want to save the title and artist info. Simply hit memo, and its' saved. This unit will also tell you when one of your saved memo songs is playing on another station. With the touch of a single button, you can switch!
+
+A "Jump" button allows one to save a channel button to quick access stuff like weather or traffic reports. Unfortunately, only the largest cities in the U.S. currently offer traffic and weather reports. Sirius promises smaller cities are coming soon.
+
+I'm not sure if other Sirius devices have any kind of tone control, but this unit does not. Which is unfortunate, since I like to run this directly to my computer speakers, I have no way of adjusting the sound quality. Not that I really need to, as the sound is terrific.
+
+In the car at night, I find the contrast settings are not strong enough. Even with optimizing the settings, the contrast is still weak.
+
+The unit I bought came with a car installation kit. The low profile antenna sits on the roof with a magnet. A very strong window suction cup mount is included, but I elected to drill a couple of holes in my Honda Element and make it a more permanent installation. The unit has a built in FM Transmitter, but I chose to use the Aux out feature since the Element has a standard Aux in on my model. - This assures static will never be an issue. So far, I've had nothing but flawless reception. Not a single drop out. Not even on a cloudy day like today. I wish I could rave about the home kit being as good. Reception behind a glass window is not the preferred setup. In my case, it's getting the job done, but I have occasional drop outs in the office, even though the unit and antenna are sitting still.
+
+Overall, this unit combined with the Sirius subscription is a joy to have and operate. It has completely changed (upgraded) my lifestyle. How many things can do that for $13/month? This is one of those products that comes with a bit of regret. - Regret for not buying sooner than you did.
+
+[R126COY3UN63UH]
+okay, those who do RAW images and are Photoshop snobs for perfect colors and hues, go spend some serious money (>$1K) on a professional, photo worthy monitor; those who want a great picture on a BIG screen for less than $500, then this one fits the bill.
+Background:  I work in a large academic bioresearch lab with co-researchers coming in and out all day.  When not stuck in a biocontainment hood or separating DNA or RNA from cells, I pretty much spend my work days in front of computers analyzing and graphing data, building plots, writing papers, checking emails, or loading my iPod.  I decided to use only my new Thinkpad for all my work and get the desktop computer off my work area, but the 14inch screen just is too small for having lots of programs and figures and email, and plots up all at once.  So I looked around, found this on Amazon (since I'm Amazon-prime... free shipping on a 24in monitor more than paid for the annual fees).  Now I'm very happy, and co-workers are quite envious as they stare at their dim, puny 15" or 17" LCDs.  THis display is nice and colors have good saturation, but most of all... lots of real estate to keep all my figures and plots on-screen.  I'm sure an expert side-by-side comparison of this with a much more expensive monitor would show how the colors bleed in some text, but the black is very black, the colors are strong and bright, and for $450, I'm extremely pleased.  The speakers of course are "tin"-ey sounding, but  I didn't buy it to listen to music, I keep the volume down low on it, just enough to hear the "new email" bing-bong wave -- who needs Hi-Fi for that?  And occasional You-Tube or news videos have crappy sound anyway.  Set-up was simple and a no brainer -- plug-in, reset the resolution on video properties, you're done.  If I'd wanted great sound, I'd have kept my big speakers (but they take up too much space).  Don't buy this monitor if you also want a great sound from integrated speakers, as those two terms (great sound, integrated speakers), really don't go together in any setting (unless you're buying a home entertainment system for >$2K).
+  All-in-all, I'm really am happy with the value here.  18 months ago, you couldn't touch a 24in monitor for less than a G, now under $500, that's deflation in a time of $4 gas.  Plus at least HP is a US company (of course not made in US, but what consumer electronics are these days), so some $$ stay here in the US of A.  Amazon prime, one-click buying, and free 2nd day delivery right to my desk made this as easy as it gets.
+
+Joel in Massachusetts
+
+[R126DNATOH120Z]
+for $20 bucks...After finally figuring out that I had to turn my mic inputs ALL the way up, I still can't get more than a -20db signal from my guitar...Save your money...
+
+[R126MU8SAF5R69]
+I bought this DVD player to feed some HD signal to my newly purchased HDTV since I was not ready to spend close to $500 for a bluray player even though it looked pretty clear bluray would not be on the losing side of the format war (maybe universal players win in the end).
+
+The set-up of the S53S is pretty complicated and made worse by the fact that they give you many choices but do not tell you what they are supposed to do in the manual. I had two DVD players already, one standalone and the other built-in the home theater system. Both have progressive scan (convert 480i standard signal to 480P). Because my HDMI cables arrived a couple of days after the S53S, using component cables, I first compared the 480P images from my old players with the S53S. The S53S is much worse. After I received the HDMI cable and 30 minutes of "tuning", it was still a little hard to convince myself that the 1080P image from S53S was really better than the 480P from my old players. The last straw was when I discovered my home theater (also a panasonic) had an HDMI output, and once I connected it, I was amazed to realize that my home theater was capable of doing 1080i conversion already and there was definitely no difference between the 1080P from the S53S and the 1080i from the home theater. I eneded up returning the product.
+
+Bottom line is, take a hard look at what you already have and maybe enable the 480P (or higher) before purchasing. If there is no DVD player that does any up-conversion, this is a good unit to own. Otherwise,  you should bear in mind that the up-converted signal is still nowhere near real HD signal. Also, get the HDMI cable. It is less than 10 bucks if you browse Amazon for market place sellers. I do not understand why some people suggest to get a "gold plated" one. HDMI cable is used to transfer digital AV signals and for digital product, the product either works (passes all the "1" and "0"s correctly) or simply does not work (messes up the "1" and "0"s), there is no such thing as noise, degradation, etc any more.
+
+[R126SJ9OZ5FH8J]
+We have a pair of brass andirons that have been in our fireplace for twenty years.  They were so black and dirty that I assumed no amount of polishing would clean them.  I took them out in the yard and sprayed them with Oil Eater and the accumulation of soot and dirt literally melted off.  The result was amazing.  Anytime we have dirt or stains that won't come off we reach for Oil Eater.  Cleans engines, golf clubs, garage floors... you name it it cleans it.
+
+Just test it on a small area first as it is pretty strong stuff.
+
+[R127T6X21SW77U]
+I had trouble right out of the box.  The board refused to format large drives and programs like maxblast refused to load.  I had to format and partition my drives on another computer.  I flashed the bios and still had problems loading Vista and the Nvidia drivers.  The bios chip seemed to be unstable and required a reset every few weeks.  Installing a Nvidia update crashed the operating system.  After months of agony I returned the board to Abit.  The board was defective and they could not fix it and what's worse they cannot replace the board as they are permanently out of stock.  I have a raid arrray with a years worth of data and it's GONE.  Even though the raid array has been backed up with Acronis true Image you need the 630i chip set to recover the array and the data.  Abit has offered two inferior boards (much less memory, no Wifi,no HDMI header, no compatible 630i and on and on.) I will cost me $300 (Fry's)just to reload the operating system on a board with less features.  I have lost a years worth of data.  Fry's tells me that Abit is getting out of the motherboard business. In my opinion, I would avoid this board.
+
+[R1281EWNRF903M]
+I am on Day 9 and am enjoying this program immensely. I have never been a fan of DVD workouts, but I think I've become one. The host is great (he reminds me of Jeff Probst for some reason). The workouts are varied and short enough that I can do them after work and still have a few hours of free time before I go to bed.
+
+I'm not seeing any obvious results yet when I look in the mirror, but I actually had to retire a pair of slacks this morning because they're too big for me. I'm not a fan of weighing myself because I don't want to get discouraged, so I use how my clothes fit me as a barometer.
+
+Last week, my first week with the DVDs, I found that for me the most challennging things were push ups. I had to use my knees because I just didn't have the strength to do them the traditional way. Imagine my surprise last night when I did every push up exercise on the Chest and Shoulders DVD without using my knees! And it's only been a week!
+
+I feel stronger; I feel healthier; and I actually look forward to working out because I'm feeling the results. I cannot recommend this product more highly than I do. I bought it for $20 at Target, and it's the best $20 I've spent in a long time!
+
+The only caution I have is that these workouts will make you absolutely famished. I am not doing the diet included in the DVDs. I had already modified my eating habits and am under 1,000 calories a day as it is. But I finish the workouts, and I'm starving. I can see how it would be easy to skip the eating healthy part (although Tom constantly reminds you to do so). My advice is, stick to your diet. I've started to keep extra fruit in my house so I can have a couple of bananas or an apple after a workout.
+
+[R128WAVDU3F22P]
+Review from a very picky person:  It worked right out of the box with Windows 7 x64, has crystal clear sound quality, feels like zero latency at 24-bit * 96KHz, it's built like a tank, ground lift if you need it, the connectors are high quality... Hi-Z for instruments, drivers are solid and reliable, good headphone amp, good Roland support... what else can you ask for?  Plus it works fine as a primary Windows sound card even in games, I have it driving my powered monitors directly.  Goodbye old trusty mixer, one more analog link out of my signal chain.  Paired up with Reaper ($60 and awesome) and Studio Devil ($50 and awesome) it makes a great guitar rig too.
+
+[R12BDJTSMS5WRM]
+I read several reviews of this on Amazon for various sizes and was speculative.  I will just say this, expect the Hood to be soft, but very strong and well made.  With this in mind I will make a list of the following observations.
+
++Flexible enough to fit in your camera case, but too soft to take a HARD hit on behalf of the lens - then again...no body should be smacking their lens
++Rubber hood is soft, but strong enough that SMALL hits will not shock the lens and serve as a better protector than a metal hood since rubber absorbs shock
++Because the hood is soft, it folds to 3 positions that are VERY useful
++Shockingly, the hood folds quickly and very precisely to its 3 positions.
++Lens caps fit perfectly within the hood, and the hood screws precisely onto my lens...really nice.
+
+Honestly, I am surprised at the usefulness and value of this lens hood...I was getting hazing using my 50mm prime lens when shooting with the sun forward and to a slight angle to my shots...this hood, folded out to the max, completely blocked out ALL the hazing and got ZERO vignetting.  Again, optically speaking, this hood supersedes all expectations of usefulness and really allows for clear shooting.  Other hoods just don't block out enough glare and haze for me...this one is perfect.
+
+At $3 bucks when I bought this, it was a no-brainer...I'd pay 10 bucks...so I bought more hoods and lens caps from these guys...all ended up being very well made.
+
+Please note I use a Pentax K5 and a KR, I use 1 Sigma 77mm thread and the rest are various sized Pentax lenses...the Fotodiox products worked for all my lenses.
+
+Happy shooting.
+
+[R12BO1S8RHCTEG]
+pros:
+
+-really precise and sensitive!
+-lightweight
+-thin, easy to fit in a laptop bag without taking much space!
+
+cons:
+
+-the buttons could be better, it takes a bit effort to press, I mean it doesn't take that much of an effort but could be very very annoying!
+-I agree about everything they said about burning the nibs! however if you set the sensitivity to the max the single nib will last months or weeks of working a lot with it! COULD be worse if you're one of the people who are comfortable with less pressure sesitivity!
+
+few things to notice:
+
+-the touch isn't %100 responsive, but isn't useless either! I tried the device on both operating systems (Windows, OSX) the touch is a lot more responsive and work more fluently in the OSX than windows! for instance I can move the canvas in sketchbook pro 2011 with ease like piece of cake, while in windows couldn't do anything at all! AT ALL!!!! so is the touch feature worthy? if you have a mac then yes it absolutly does worth it! otherwise go for the intuos4 since they're on sale now and not much of an improvement on the pen performance between both models unless you want the wireless feature in the small and large size.
+-strong smell of plastic, this may concern some people here.
+
+[R12CQPOOX0VYHC]
+This coffee is just strong enough to start my day off right! It has a great flavor & tastes even better with DaVinci vanilla syrup. Highly recommended if u like a strong coffee with great flavor.
+
+[R12D0GZ7D0P754]
+If you like your coffee strong, you're like me.  You probably grind it espresso fine, soak your filter in water, and plug it up for a few minutes before letting that precious liquid drip to your cup.  This machine will do that for you.  Attractive, solid, and great for making that super strong cup a jo.
+
+[R12D0KKIRSDGFF]
+the frame is great and easy to put together. rather than reiterate the common comments i will focus on the errors that show in recent reviews.
+
+Pros: pretty much every other review says is correct; no squeaks, sturdy, easy assembly, value, does not slide around (no wheels), etc. also they delivered it in a week (ignore the long shipping dates, at least in the southwest).
+
+Cons: it does not likely disassemble easily. you can remove the legs but the frame would be hard to disassemble. the plastic connectors for the wood slats to the frame are kinda cheap. i have not read any reviews that say any broke.
+
+Misconceptions and errors in other reviews:
+1. the legs are strong and align perfectly. any issues with legs or frame are likely the result of poor assembly techniques.
+2. a mallet is better than a hammer, but a hammer works just fine; you do not need a mallet.
+3. it should take an average person only 60 minutes to assemble by themselves and go back around to recheck and tighten all fasteners. this time based on using the tools provided, not a power driver. the instructions are very clear and concise. it should not take 2 people 90 minutes to assemble.
+4. the curved corner pieces are for decoration and finish, they have no structural value at all so being plastic is not an issue.
+5. there was no varnish odor at all.
+
+as noted most of the other reviews are very accurate and helpful. it's a really good product and a great value.
+
+[R12DXTHRXW9URW]
+I don't usually review albums on Amazon, however I feel very strongly that the new record by Tool is being unfairly maligned by certian fans who don't want the band to continue evolving. When it comes to Tool, I've never got the impression that sticking with the formula was going to be an option. Seems they continue to write music for themselves, as it should be. If you wanted another Undertow, there are plenty of second rate, unimaginitive bands out there who continue to mine that formula just for you. I'm glad that Tool has continued to keep things interesting and take risks, that's what true artists do. That said, my opinion of this record the very first time I heard it was, in all honesty, somewhat disappointed. My first impression was that it sounded too `samey' in places, and in others I felt it just kind of dragged out & defocused. But because I respect this band's work so much, and because there have been many times that my initial judgement on a piece of music has been wrong, I gave it more time to open up to me. I came back to it a few times, and let it do it's work. I'm sure glad I did, because my opinion changed drastically as I suspected it would, and it's become my favorite record to listen to right now - which is what I've come to expect from this band. They write music that is deep, inobvious at first, and opens your mind over repeated listens. I can't say the same about the majority of music out there today, and even less so in this particular genre. I can only say that in order to appreciate this amazing work of art, you have to disregard your previous notions on the band's music, because it should be clear by now, these musicians do not stagnate. Those of you who dismiss this band's work without giving it time, and who come on here and `critique' by saying simply, `the album blows', well, good riddance to you. It's impossible to not consider this record an amazing accomplishment on every possible level, and I for one am grateful that these 4 guys continue to produce highly intelligent, inspiring music for my pleasure. The show in Oakland, as well as last time they came through town in Berkeley, Ca. were both highlights of my concert going life. I will continue to be inspired and grateful for this band, and I hope they continue to alienate those who just want them to "Rock". Sorry, but you guys are stupid beyond words.
+
+[R12FZSPLRREFHG]
+I bought a bridge and a player in order to play my iTunes music library from my computer (which is in a basement office) to powered speakers set up on our outdoor patio. The actual distance between the bridge/router and the player is maybe 30 meters but I live in Switzerland where houses typically have brick or concrete internal walls. The wireless signal reached the outdoor player at first but dropped out after a few minutes. After that, the player couldn't be located on the system. I tried moving it around to places where it might better "see" the signal but with no effect. I brought it inside to the living room and it worked only if the player was right beside an open door. Here the distance from the bridge is maybe 20 meters. If I put it beside my stereo in order to use my stereo's speakers, it's invisible, I assume because the stereo is in a corner of the room that creates a "shadow" where the wireless can't reach. So I guess I'll have to wire up a network connection to the player and forget about the wireless, which is why I bought the system in the first place.
+
+Also, to connect computer speakers to a Sonos player requires a special cinch adapter that you need to buy separately. That was not really explained anywhere on the website.
+
+After reading a lot of the positive reviews and visiting the company website, I was under the impression that the Sonos wireless system was somehow more powerful than the wireless signal in my existing system. But I would say it's actually a weaker signal, since I can easily use my laptop wirelessly on my balcony but the Sonos system doesn't transmit that far.
+
+So take all the "easiest to use" stuff with a grain of salt. Once again, if you're not a real techie, these solutions are rarely as easy to use as many claim, in my opinion. And to those hoping to have wireless connectivity in a building with thick walls, be forewarned that you may need to invest additional money either in an extra bridge unit or forget about wireless and go for a wired solution using network cables.
+
+[R12IEZ2UIP3KA5]
+This product is far better than its "average" 3 star rating, and the first thing I would tell you is, ignore the majority of the 1 star ratings you will read here.
+"Stickers adhere to strongly to the screen protector", "protectors DO NOT cover the ENTIRE screen", and "impossible to get rid of bubbles"... none of these claims are true if you can read instructions, purchase the product for its intended purpose (Droid-X), and install the product as intended (again reading instructions, or better yet watching the youtube video link that's provided in the paperwork instructions tinyurl.com/294sejn)
+
+I have installed perhaps as many as 100 screen protectors over the years and I can tell you none of them went on as simply as this particular style of protector.  The screen protector itself comes with 2 protective thin plastic covers, both with tabs to easily peel the protective plastic away from the final product.
+
+Here's my installation tip:  Don't expect the included micro-fiber cleaning cloth to remove all dust particles (it's great at removing finger prints etc.)
+For dust particles I use scotch tape (actually I generally use the previous screen protector I am removing) by simply adhering (and re-adhering) the scotch tape to the screen to make sure all dust and lint is removed (ever removed lint from a black garment with some tape?)
+
+The screen protector is "glossy", I can see my reflection in it (I'm not sure what the reviewer was thinking that claimed "the anti-glare is nice") and fits the Droid-X screen perfectly.  (Protector is 2-13/32" x  4-7/32" as near as I can measure) and includes rounded corners.
+
+I cannot speak to how well it holds up, or how well it resists scratching since I've only had it on for a few days, but I can tell you that after using three other screen protectors on my Droid-X I would buy this one again and again and again.
+
+[R12J1TA1LH1SG8]
+I have used and tested hundreds of software apps for over 20 years and it never ceases to amaze me how brain dead most of them can be. First, the version that was shipped to me from Amazon in January 2003 was Ver.6.0.2. Very unstable. Frozen screens. Via email, their tech suggested that I update, on line, to Ver.6.2. No more frozen screens.
+I had hoped that the new version would allow the main screen to be maximized. No such luck. Tech support says you cannot max the main screen. "It is a limitation of the software." No, it is the limitation of the programming effort. The report screens can be maximized, but not the main screen. Go figure.
+Here is the most salient disappointment in this "software." You MUST pay for annual updates, as you would a tax program. In fact, when activating the software, you must choose a single tax year. Their excuse is that fair market values change every year and of course they would not want you to use old data. Right.
+My beef is that the company (and thus Amazon) does not inform the purchaser prior to purchasing that their software is only good for one year. This is simply sleazy.
+The values they determine for donated goods are much higher than the actual thrift store values. Which is okay for my deductions, if, in fact, they are accurate.
+Finding items to be donated is a bit kludgy. They use drop down categories that are not all that logical, e.g. I had trouble finding hats. They decided to call them caps. Silly me. They are very, very weak on electronics, computer items, etc. But strong on designer kitchenware. Go figure.
+
+[R12JV0C4U6YBQA]
+The Kindle Fire is great, but when you are outside, the screen reflects substantially, making it difficult to read.  These anti glare screen protectors are easy to install and substantially reduce the glare.  They do not impede the function and the screen is still almost as legible as without the product.  Strongly recommend if the glare from reflections bothers you on your Kindle Fire.
+
+[R12K64R9XLK23C]
+I have had mixed success with this MIFI.  The Verizon plan is 5 Gb per month.  If in a solid 4G location, it works fine, although it may disconnect.  It also runs really hot.
+
+One also can't use it will it is charging.
+
+Others have complained about
+
+I'm using this in a weak 3G only area and needed to get an antenna.
+
+On the plus side, it's better to buy an iPad with only wifi because it is $100 less than the 4G model and then buy a mifi.  It is also more versatile.
+
+[R12KCOEJV9NKAU]
+Item was delivered two business days after ordering, via normal shipping. Product was received undamaged, & in original packaging. Product performs exactly as advertised. Anyone shopping for CD-RW "Music" CD's should strongly consider purchasing this item.
+
+[R12KDERB28FCIA]
+This movie was obviously under-rated. I hadn't heard about this movie until it came to Dvd. Its over the top with action, great story line, very well acted and directed. Affleck is at his best. You may hear that some of the plot is familiar with other movies, believe me, the slight similarity's to any other movie is strongly over shadowed by the great acting, superb directing as well as the little twists that show up throughout the movie. This ones a keeper, don't pass it up.
+
+[R12KI0XEQGY7UI]
+My 15 year old Krups made excellent coffee and gave up the ghost - apparently in the meantime, the company gave up too.  The first one I bought, had a strong plastic smell and within 36 hours the clock/'on' indicator failed.  A replacement works, but after 3 weeks, the plastic smell remains strong; even after repeated vinegar/water flushes and many, many water flushes.  Krups said I could send it in (at my expense) for warranty service.  That won't fix it - the only solution is the trash can and I'm now looking at other brands.  I'm sorry to see such a previously fine company have a 'junk product'; but I'll never buy another one.
+
+[R12KLDLUQZU7PH]
+There are a lot of excellent reviews out there to which I can add very little.  I just want to chime in on one thread regarding In the Beginning.  I strongly encourage viewers who have not seen at least the first season plus the opening episode of Season 2 to wait until doing so before seeing In the Beginning.  I disagree with the reviewer who said the movie doesn't give much away; that is absolutely incorrect.  Much of the fun of watching the series is watching plot elements unfold in a very deliberate way, as intended by the series creator and executed brilliantly in the series.  By seeing In the Beginning first, you deprive yourself of getting the most of a beautifully crafted story. It brings everything together very nicely in one package, but should NOT be seen first; the spoilers are very significant.  Those new to the series, please do yourselves a favor and wait on In the Beginning until you've at least started Season 2...
+
+[R12LKKCN038L63]
+I bought the HD Flow system because I have an HDTV I want to mount in my kitchen, which is at the far end of the second floor of of my three story house.  I received it along with the rest of my install equipment (mount, plugs, wires etc.) from amazon, but the entire install depended on the HD Flow being able to transmit an acceptable signal through my 1st-2nd floor and through a set of two walls to the kitchen TV.  As i write this i realize the feat I am asking for a wireless signal to do, but I was sold by their video that claims 131 feet through floors and walls.  But my transmitter (tX) and receiver (rX) would only be 60 feet apart...that should work right?
+
+My order arrived, install is incredibly easy, 4 cables if you're using HDMI.  The "HD Flow" logo appeared on my TV, but nothing more; info button revealed the tX was not sending data to the rX.  I checked the source (Cable TV box), it was fine and the TV was on and set to the correct inputs.  I then decided to move the tX and rX right next to each other to see if they were the issue.  Sure enough after trying multiple input types, resets, and factor default resets I determined they were faulty and returned them to Amazon (who handled the exchange very well I should say).
+
+I received an exchange the next day and went through the motions of getting things setup.  This time when the tX and rX were right next to each other, they were talking and transmitting great picture and great sound.  Nice!  However, when I moved the rX and tX into the places where they would be post-install, the connection was not so easy.  They would blink continuously and say tX was not sending data.  This happened until I did a factory reset on both.  Eventually I got the picture and sound to display, alas! they connected.  Unfortunately it was extremely blotchy at best and the sound was nothing but stutters and only got worse if anyone was in the kitchen.  Obviously I was asking far to much of this wifi signal...
+
+I won't give it a 1-star rating because it DOES work, but I can't give more than a 2-star rating because it did not perform as advertised.  Hopefully others have better luck with it than I did.
+
+[R12LZ5KNIG6TIY]
+When my little alarm clock finally bit the dust, I searched for a long time for a good replacement. The old one was a little travel alarm that had an analog face and a mechanically operated digital readout for the alarm that could be set in five minute increments. The alarm was easy to change in both directions in just seconds by spinning a little wheel on the back and it woke me up at exactly the time set on the alarm dial. These features all seemed pretty basic to me, but I looked for several years before deciding the Seiko alarm was as good as I was going to get. I personally don't like digital watches and alarm clocks. I also wanted battery operation to limit EMF's near my bed.
+
+The Good: Unlike most analog clocks and watches, this one does not tick. It's not completely silent, but the motor sound is smooth and steady and almost imperceptible. It is easy to read because it is so big (consequently, it isn't that good as a travel alarm). The original batteries are still going strong after nearly a year and a half. The colored LED scheme is very handy. When I check the clock after lights out, if I don't see the green light indicating the alarm is on, it's a warning to turn it on. Much handier than I imagined it would be. Helps eliminate late wake-ups. The alarm beep should be enough to wake most people up. It is the loudest I've ever had, but starts low and ramps up quickly to an insistent buzz.. One last little thing I like is the lack of glowing lights at night. Pushing the snooze button lights up the face with enough light to see what time it is, but otherwise, the luminescent hands are not enough to interfere with the darkness of the room.
+
+The Bad: There are a few rough spots in this design for a clock that has had some though put into other features. I found the alarm to be too loud, so I stuffed tissue paper in the sound outlet and taped over it. Now it's just about right. The thing that is the most frustrating, however, is the lack of precision in the alarm setting. Other clocks - both older Seiko's and, of course, digital clocks - are consistent in the wake up time. This one varies by a few minutes day to day and it is quite difficult to know within 5 minutes or more what time it is set to when turning the dial and guessing where the needle is actually pointing. Not too big a deal, but Seiko has a long reputation for quality and precision. For a fairly expensive clock, it is simply annoying.
+
+The Ugly: Seiko makes some nice clocks. I have a brass and glass one from the eighties that still looks good - sharp and clean and nicely made. This clock looks like it was designed by unemployed apparatchiks from the former Soviet Union. It is clunky, with cheap plastic everywhere. The style is nothing I can categorize - not really retro, more just a thoughtless design. The bottom has sharp plastic edges and no padding. I figured out right away that setting it down in the dark was going to bang up my bedside table, so I put big felt dots on the bottom to cushion it and make replacing it quieter.
+
+ Overall, the function and daily use of the clock is just about right for me. I have gotten used to the way it operates and feel it is eminently trustworthy. I'm not expecting to see it in the design collection at the Museum of Modern Art any time soon....
+
+[R12NOGW1ON95ML]
+I've used a Navigon in Europe and was optimistic about this product.
+
+I received it last week. I've compared together in real time to the TomTom in our other vehicle as well as a Nuvi 650.
+
+Observations: US routing is well off the mark. Points of Interest do not function well, many are missing. As a paying customer I received a 2GB "standard" card instead of the the advanced fast 4GB SDHC card advertised and included in the units distributed free to reviewers. Text-to-speech seems to have been revised to a downgraded system that does not speak most street names.  US Customer support was poor, and emails relayed by the US site to Navigon Europe seemed to be handled in a confused manner.
+
+Interestingly these problems are acute for the user, but the fixes are rather simple for Navigon. Two things are happening. I think the 2GB card probably cramped software (everything is on the card) and caused needed and perhaps planned features to be left off. And US support seems to have a poor relationship with the German HDQ where the software is written.
+
+I would say this product has great potential.If you read of a good series of routing updates, software fixes, and return to SDHC card, all of these would be an indication changes in revamping of customer service and commitment to the US market. At that point I would give this device a very strong positive recommendation.
+
+[R12NWE7PJKYSQ8]
+Some may say the title is a bit misleading. Sure, you'd want to be very interested in the subject to use this as your first introduction to algorithms, and the analysis and design of them. On the other hand, the book isn't especially advanced. It just covers a lot!<p>As a textbook, or for self-study, the book excels in clarity, coverage, and precision. It never lets go of the big picture, but still has every bit of detail you would want in an introductory text, with mathematical proofs of interesting properties of the algorithms introduced (and the first 6 chapters explain any mathematics you need).<p>As a reference, the book is immensely useful. Because almost any other algorithm book has a reasonable size, they must make a choice of what to cover. This book avoids the choice, and is therefore much thicker. <p>Of course, one book can't cover everything, the authors limit themselves to fundamental algorithms, anything related to parsing, semantic analysis, rewrite-systems, theorem-proving, computational biology, numerical analysis, computer graphics, machine-learning, signal-processing, or a number of other topics is better dealt with in a more specialized book. Still the coverage is unusually broad, and you would be hard pressed to find a more complete reference.<p>If you only want one book on algorithms, this is the book you want. If one algorithm-book isn't enough, you would still want this one, because it would be hard to even find a collection of books covering the same material. Besides, it will give you more shelf-space for other more advanced texts :-)
+
+[R12O4FZ1GJ8J34]
+This TV exceeds my expectations. I am receiving over the air digital signals from local towers, and the High Def'n pictures are really amazing. When you input a channel number, for example 3, the TV automatically checks for the digital HD signal and locks into 3.1 so you don't have to needlessly enter excess buttons all the time. The manufacturer should mention this in their description--I believe this to be a valuable design. Samsung says that the TV has guarded features that reduce the chance for screen burn-in of non-changing scenes; but then they go on to say that screen burn-in is not covered by the warranty. Fortunately Samsung makes it easy to adjust screen size so that any horizontal or vertical bars can be eliminated if the source of the picture size disagrees with the 16:9 widescreen. Sometimes the image is slightly distorted, however.
+ The TV that I bought from Amazon was promptly delivered, unpackaged, and moved into my TV room. I set-up the TV to my existing Home Theater system without any problem (experience helps).
+  The definition and Trueness of the brilliant colors are quite a sight. I really love it. The glossy piano black finish of the cabinet is a delight in my TV room. The remote is very usefull, and has color coded buttons which are very convenient to quickly locate. Amazon has a 30 day return period which I am glad to say, I didn't need to use. Every aspect of the transaction was perfect. I don't know how I would send such a large item back if I needed to do so. Enough already....I'm going to go watch the NBA finals in HIGH DEFINITION.
+
+Update 4/7/2008:
+Nothing has changed. The Samsung is still wonderful. It's picture from over the air broadcast is better than any friend's High Def units to which it is compared. Even though we have watched many, many Netflix movies which frequently leave "bars" at the top and bottom (since they are not true 16X9 format) there is no burn-in. Don't be afraid of burn-in from movies with this Plasma TV.
+
+[R12OLFTEET4E9O]
+Caveat, I have only listened to this album once and I am sure my opinion will change in the coming days.  I feel it is important to get my initial impression entered because first instincts are often the truest.
+
+I'd like to hear more Dylan both lyrically and instrumentally and less band.
+
+The first few songs are simply boogie-woogie rockabilly.  The next few have a strong Leon Redbone feel.
+
+The amazing tongue tripping lyrics are missing.  It seems to be mostly simple rockabilly.
+
+Ain't Talkin' seems to be the most Dylanesque musically, in instrumentation, and lyrically.
+
+[R12PO79OWN0085]
+Excelent product at a cost far below the "big box' stores. I had expected to sacrifice some quality but was very surpised to find the mount every bit as strong as the products I saw in stores.....very happy with the mount as well as the fast shipment.
+
+[R12PPNSNAT5VA6]
+I purchased this TV to replace our 12 year old 20" Sony Trinitron.  Along with the TV I bought the Samsung wireless USB adapter; it was a breeze to setup.  I haven't accessed my Netflix account yet as I need to add streaming to my account, so I cannot comment on playback over WIFI.
+
+I have three minor gripes; 1.> The glass stand and bezel around the TV are terribly sensitive to fingerprints and smudges.  2.> If you're not careful you can easily mount the TV crooked as the mount itself is small in diameter.  I did this not realizing it until I had placed the TV where I wanted it to go.  I had to unplug everything, take it down, adjust the TV and tighten the screws (more of an annoyance than anything else).  This is not entirely Samsung's fault, but I think they could have come up with a better mounting unit. 3.> The speakers are just terrible and the reviews stating they sound like a tin can are spot on.  I consider this only a minor gripe because I have the unit connected to my Sony theater system and have the internal speakers switched off.
+
+In summary, if you're at this price point for a 32" TV I highly recommend this unit.
+
+[R12PVRLAYWTNOX]
+got it with discount (still over priced), works really well.
+
+digital signals from outdoor antenna, very clear picture, able to pick up weak signals.  (not the case with my other TVs with low quality cables).
+
+might consider to buy again if the price is right (ha, whom am i kidding?)
+
+[R12QPIFBJF0779]
+ToonBoom Studio 4.5 is the version I've used most extensively so I will review it here. (I've also tried Studio 5 and didn't notice much difference, Toon Boom Animate Pro is a bit better but still plagued with issues).
+
+The unfortunate thing for me is that when I got over the learning curve and really got into making some detailed animations the program simply could not keep up. It crashes anytime I try to export what I would consider 'tv quality' animations (with multiple layers moving at an HD resolution). It's been so bad that I have had to export some of these animations frame by frame and take them into a more solid program such as After Effects to actually deliver a final project.  I will note here that I mostly work with bitmaps, supposedly not Toon Boom strong suit.  Even after I vectorized all of my art however I still had a ton of issues with the program.
+
+I've also had an issue with changing/updating images. In a program like Vegas if you re-rendered one of your import clips or produce a new version of an audio file you could just save it over the old file and Vegas will automatically update the clip(s) to the newest version. In ToonBoom you simply can't do that, and even sometimes when I'd have to make a new name for a file and would completely erase the old file ToonBoom would somehow still find traces of the old file and delete my NEW UPDATED FILES. This in an extraordinary headache and makes it really hard to make changes to your animations. Other times even without even updating any files ToonBoom simply seems to glitch out while saving filenames occasionally, so your project may be looking perfect but the next time you open it you find layers and objects completely missing.  This is simply unacceptable in a professional environment where time is of the essence (and also costs a lot of money fixing things that shouldn't have been broken in the first place).
+
+I've decided to keep my sanity and never use a ToonBoom product again, every product I've tried from ToonBoom has been littered with bugs. If you want to make professional quality bitmap animations stick with Photoshop and After Effects (or Ilustrator and After Effects if you prefer vectors).
+
+If you just want to learn the basics of animation or have a program to play around with and make extremely simple low res vector animations have at it. If you want to make TV quality animation steer clear and find a more well developed and tested product like the ones Adobe provides.
+
+[R12QWNW1N5B08B]
+I had a Motorola Q and still have 2-3 mini-USB B cables, two wall chargers and a car charger.  When I switched to an iPhone, I bought a Mophie Juice Pack Air to extend battery life and it uses a Micro-B connector for charging and syncing.
+
+Rather than toss my existing mini-B collection, I bought one of these to test my old cables & chargers -- it works PERFECTLY for both charging and syncing with all my old cables and chargers.
+
+My only gripe is the size -- in my opinion they could have made a female USB mini-B connector with a clamshell that snapped over the mini-B male end making a single, strong connector with a micro-B connector on the end.
+
+Other than that, I ordered 2 more so I would have one in my laptop bag, the car and for use with other chargers.
+
+[R12QY7DH60M1RS]
+Purchased this coffee maker based on many positive reviews on Amazon.  When received it worked as it should of with the caveat mentioned in other reviews -- grinder was rather loud.  Overall quality of coffee brewed was good, but considerably less robust than the coffee produced by our old-but-now-defunct (no longer manufactured) unit.  It also consumed quite a bit of coffee to make the ten-cups and the adjustments to make the coffee stronger seemed to do very little.  Though not perfect, we thought we'd keep it.  The killer happened about 2-weeks into use when one morning starting the unit resulted in nothing -- no grind, no heating, no brew, no nothing.  The unit, praised for its reliability, stopped working completely.  Needless to say it was returned for refund and we've moved on to something else.
+
+[R12QYM0POGUDZC]
+I am very pleased with my Netgear products.  I have a MR814 wireless router, which is installed in my 1860 sq ft condo's lower level between two big "I" beams.  These beams suck the power (and range) out of the signal so that there are some places on the main floor that I can't receive a strong enough signal.
+
+However, with the XE102 and WGXB102 installed, I receive a strong singnal throughout the condo and my deck and patio.  (It was necessary to extend the electrical circuit for my livingroom into the lower level and next to my router so that I could plug the XE102 into the same circuit as the WGXB102.)
+
+My only difficulty was that I was unable to establish any security on the WGXB102. (The supplied software couldn't find the web site that was necessary to make the proper settings and Netgear's support personnel were too inexperienced to solve the problem.)  Ultimately, I hired "The Geek Squad" to set the security settings.  (He didn't use the supplied software.)
+
+So, I find the hardware to be 5 stars, but the set up software and support to be 1 star.
+
+[R12SVVWMJ9YXAW]
+I purchased this item in the hopes I would no longer need a usb extension cable to bring my mouse/keyboard receiver close enough to me to get a signal. While the range on this item is great ( i could use the keyboard mouse from 20+ feet away ) I could not bring myself to keep such an expensive wireless combo when I was not happy with the mouse performance.
+  Regardless of how the settings were tweaked for mouse speed/sensitivity etc, the pointer would move around what I was tring to select in both games and with general internet use, making it fustrating to use the mouse for any extended period of time.  Within a half hour of using the mouse and trying to find a setting that would suffice, I gave up and went back to my old mx 700 logitech mouse.  In light of the poor performance of the mouse I'm returning the whole thing.
+  The keyboard overall is a very sleek well performing device.  The only negative as other people have noted is poor lighting on the lcd panel negates the convenience of it (the lcd panel ) almost entirely.
+
+[R12U012AWLR36K]
+I've had this phone since November, and been very happy with it overall. For me, the main advantages of the phone are its very small size and the very hefty battery life. I feel like I really do get several hours of actual talk time before needing to charge. I've been happy with the quality, although that has a lot to do with the carrier, as well. The rings are generally loud enough to be heard under most circumstances, and the vibrate is strong enough that I can feel it even when I'm carrying the phone in a waist pouch.<p>That said, I'll reiterate things such as you can't read the screen AT ALL in sunlight. And the UI design is a bit odd. It takes a lot of effort to do simple things like turn off the alarm clock before its gone off. You can't program any quick dial buttons which is annoying since I only call about three different people on a regular basis. And it does not go into lock mode if you leave one of the menus up (in fact, it leaves the screen fully powered indefinitely), or you get into M-mode (another feature you aren't allowed to de-program. I've NEVER used MMode, but I get charged a dollar or so a month from the times I've accidentally gone into it because the joystick moves that direction when the phone is in my pocket before it auto-locked.)<p>The camera is not a good reason to get this phone. It's not useful for anything other than the fun factor, although I do enjoy being able to assign pictures to people when they call.<p>If you can get this phone on a cheap we'll reimburse you for the cost of the phone if you sign up plan, go for it. For me battery life was one of the most important things, and I feel this phone shines in that department.
+
+[R12UC08RTRT6YI]
+This product works well but be forewarned, the instructions are only written for upright "wedgie" bikes and not recumbents.  If you're one of the more intelligent bike riders who ride a recumbent, then you're going to have to figure out how to mount it without help from the instructions.  For instance, measuring from the handlebars to the seat to determine the distance for mounting the brackets on the ceiling won't work with a recumbent. It will depend on whether you have a SWB or LWB recumbent.
+
+I also replaced the rope that came with it with a stronger rope that was double the diameter. The provided rope seemed too flimsy to take the risk of hanging a bike over our autos.  However, the rope has to be small enough diameter to be able to be threaded through the locking mechanism.  Also, if you're mounting it in a garage without a ceiling you'll have to figure out how to mount it on rafters with a roof angle.  Again, if you're a recumbent rider then you'll be smart enough to figure it out, which is probably why they only provide instructions for "wedgie" riders.
+
+After a morning of figuring things out, the Racor Bike Lift works well enough that I bought another one for my wife's recumbent.
 
